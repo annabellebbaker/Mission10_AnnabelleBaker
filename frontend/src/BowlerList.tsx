@@ -18,6 +18,7 @@ function BowlerList () {
         <>
             <h1>Bowling League Database</h1>
             <h2>This page displays the bowling league database of those in the OG Bowling Crew</h2>
+            <h3>It only shows those in the Marlins and Sharks teams!</h3>
             <table>
                 <thead>
                     <tr>
