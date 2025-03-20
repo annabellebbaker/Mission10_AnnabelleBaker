@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker\\backend\\Mission10_AnnabelleBaker\\",
+  "WorkspaceRootPath": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|solutionrelative:mission10_annabellebaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|solutionrelative:mission10_annabellebaker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker - Copy.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker - Copy.csproj|solutionrelative:mission10_annabellebaker\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker - Copy.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker - Copy.csproj|solutionrelative:mission10_annabellebaker\\controllers\\bowlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|solutionrelative:mission10_annabellebaker\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker - Copy.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker - Copy.csproj|solutionrelative:mission10_annabellebaker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|c:\\users\\abbak\\source\\repos\\mission10_annabellebaker - copy\\backend\\mission10_annabellebaker\\mission10_annabellebaker\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B14DED-AFE8-45EE-8DE3-2AA6BD253905}|Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker.csproj|solutionrelative:mission10_annabellebaker\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +46,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission10_AnnabelleBaker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T20:44:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Models\\Team.cs",
+              "RelativeToolTip": "Mission10_AnnabelleBaker\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:37:43.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Mission10_AnnabelleBaker\\Models\\BowlingLeagueContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:37:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Models\\Bowler.cs",
+              "RelativeToolTip": "Mission10_AnnabelleBaker\\Models\\Bowler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:36:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\appsettings.json",
+              "RelativeToolTip": "Mission10_AnnabelleBaker\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T20:35:42.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlingController.cs",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Controllers\\BowlingController.cs",
+              "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\Controllers\\BowlingController.cs",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Controllers\\BowlingController.cs",
+              "RelativeToolTip": "Mission10_AnnabelleBaker\\Controllers\\BowlingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:34:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Program.cs",
               "RelativeDocumentMoniker": "Mission10_AnnabelleBaker\\Program.cs",
-              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Program.cs",
+              "ToolTip": "C:\\Users\\abbak\\source\\repos\\Mission10_AnnabelleBaker - Copy\\backend\\Mission10_AnnabelleBaker\\Mission10_AnnabelleBaker\\Program.cs",
               "RelativeToolTip": "Mission10_AnnabelleBaker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T22:13:42.322Z",
               "EditorCaption": ""
